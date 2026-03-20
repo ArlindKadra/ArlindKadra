@@ -1,16 +1,24 @@
-## Hi there 👋
+I am a postdoctoral researcher at the University of Technology Nuremberg, working on **efficient, automated, and explainable machine learning systems**, with a focus on:
 
-<!--
-**ArlindKadra/ArlindKadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Automated machine learning
+* Hyperparameter optimization
+* Interpretable deep learning
+* Tabular foundation models
+* In-context learning & model efficiency
+---
 
-Here are some ideas to get you started:
+## 📚 Selected Publications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **[Interpretable Mesomorphic Networks for Tabular Data](https://proceedings.neurips.cc/paper_files/paper/2024/file/3848856978da28639d2057094a1287a5-Paper-Conference.pdf)** — NeurIPS 2024
+* **[Quick-Tune: Learning Which Pretrained Model to Finetune](https://openreview.net/pdf?id=tqh1zdXIra)** — ICLR 2024 *(Oral, Top 1.2%)*
+* **[Scaling Laws for Hyperparameter Optimization](https://proceedings.neurips.cc/paper_files/paper/2023/file/945c781d7194ea81026148838af95af7-Paper-Conference.pdf)** — NeurIPS 2023
+* **[Supervising the multi-fidelity race of hyperparameter configurations](https://proceedings.neurips.cc/paper_files/paper/2022/file/57b694fef23ae7b9308eb4d46342595d-Paper-Conference.pdf)** — NeurIPS 2022
+* **[Well-Tuned Simple Nets Excel on Tabular Datasets](https://proceedings.neurips.cc/paper_files/paper/2021/file/c902b497eb972281fb5b4e206db38ee6-Paper.pdf)** — NeurIPS 2021
+* **[OpenML-Python API](https://www.jmlr.org/papers/volume22/19-920/19-920.pdf)** — JMLR 2021
+
+📖 More:
+
+* Google Scholar: *[[Link](https://scholar.google.com/citations?user=bMa0KUcAAAAJ&hl=en)]*
+
+---
+

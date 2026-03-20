@@ -1,4 +1,4 @@
-I am a postdoctoral researcher at the University of Technology Nuremberg, working on **efficient, automated, and explainable machine learning systems**, with a focus on:
+I am a Postdoctoral Researcher at the University of Technology Nuremberg, working on **efficient, automated, and explainable machine learning systems**, with a focus on:
 
 * Automated machine learning
 * Hyperparameter optimization
@@ -21,4 +21,8 @@ I am a postdoctoral researcher at the University of Technology Nuremberg, workin
 * Google Scholar: *[[Link](https://scholar.google.com/citations?user=bMa0KUcAAAAJ&hl=en)]*
 
 ---
+## 🌍 Open Source Contributions
 
+* **[Auto-Pytorch](https://github.com/automl/Auto-PyTorch)**
+* **[OpenML-Python](https://github.com/openml/openml-python)**
+* **[OpenML-Java](https://github.com/openml/openml-java)**

@@ -9,6 +9,7 @@ I am a Postdoctoral Researcher at the University of Technology Nuremberg, workin
 
 ## 📚 Selected Publications
 
+* **[End-to-End Compression for Tabular Foundation Models](https://openreview.net/pdf?id=tqh1zdXIra](https://arxiv.org/pdf/2602.05649))** — ICML 2026 *(Spotlight, Top 2.2%)*
 * **[Interpretable Mesomorphic Networks for Tabular Data](https://proceedings.neurips.cc/paper_files/paper/2024/file/3848856978da28639d2057094a1287a5-Paper-Conference.pdf)** — NeurIPS 2024
 * **[Quick-Tune: Learning Which Pretrained Model to Finetune](https://openreview.net/pdf?id=tqh1zdXIra)** — ICLR 2024 *(Oral, Top 1.2%)*
 * **[Scaling Laws for Hyperparameter Optimization](https://proceedings.neurips.cc/paper_files/paper/2023/file/945c781d7194ea81026148838af95af7-Paper-Conference.pdf)** — NeurIPS 2023
